@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Search by keyword story","Searching by keyword banana should display the corresponding article","SUCCESS","2020-05-13T15:30:52.777357+03:00[Europe/Athens]","0.0","7.95"
+"Search by keyword story","Searching by keyword apple should display the corresponding article","SUCCESS","2020-05-13T19:42:16.8086677+03:00[Europe/Athens]","0.0","8.74"
+"Search by keyword story","Log in","SUCCESS","2020-05-15T13:38:48.0638557+03:00[Europe/Athens]","0.0","33.84"

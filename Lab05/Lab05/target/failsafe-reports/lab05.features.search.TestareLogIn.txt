@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lab05.features.search.TestareLogIn
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 30.942 sec - in lab05.features.search.TestareLogIn

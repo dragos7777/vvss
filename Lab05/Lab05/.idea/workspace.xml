@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34c64af3-17e4-4a0e-939e-3947600b1526" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bqwRESxAnoJn5LvCDTDitqkzFv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn serenity:aggregate" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.lab05 in Lab05">
+    <configuration name="ScenariuTestare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab05.features.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab05.features.search" />
+      <option name="MAIN_CLASS_NAME" value="lab05.features.search.ScenariuTestare" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestareLogIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab05.features.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab05.features.search" />
+      <option name="MAIN_CLASS_NAME" value="lab05.features.search.TestareLogIn" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab05 in Lab05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lab05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lab05" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.lab05 in Lab05" />
+        <item itemvalue="JUnit.ScenariuTestare" />
+        <item itemvalue="JUnit.TestareLogIn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34c64af3-17e4-4a0e-939e-3947600b1526" name="Default Changelist" comment="" />
+      <created>1589372921721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589372921721</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="317" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589534111401">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="566" y="317" width="403" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1589534111401" />
+    <state width="1493" height="159" key="GridCell.Tab.0.bottom" timestamp="1589539894383">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589539894383" />
+    <state width="1493" height="159" key="GridCell.Tab.0.center" timestamp="1589539894383">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1589539894383" />
+    <state width="1493" height="159" key="GridCell.Tab.0.left" timestamp="1589539894382">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1589539894382" />
+    <state width="1493" height="159" key="GridCell.Tab.0.right" timestamp="1589539894383">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="159" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1589539894383" />
+    <state width="1493" height="312" key="GridCell.Tab.1.bottom" timestamp="1589460697343">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1589460697343" />
+    <state width="1493" height="312" key="GridCell.Tab.1.center" timestamp="1589460697343">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1589460697343" />
+    <state width="1493" height="312" key="GridCell.Tab.1.left" timestamp="1589460697343">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1589460697343" />
+    <state width="1493" height="312" key="GridCell.Tab.1.right" timestamp="1589460697343">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="312" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1589460697343" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1589539693122">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1589539693122" />
+    <state x="1012" y="571" width="672" height="677" key="run.anything.popup" timestamp="1589539894419">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="1012" y="571" width="672" height="677" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1589539894419" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1589535379811">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1589535379811" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Lab05$SearchByKeywordStory.ic" NAME="SearchByKeywordStory Coverage Results" MODIFIED="1589387801406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>lab05.features.search.*</FILTER>
+    </SUITE>
+  </component>
+</project>

@@ -1,0 +1,82 @@
+2020-04-02 19:42:26 INFO  Main:38 - saved data reading
+2020-04-02 19:42:26 INFO  Main:43 - application start
+2020-04-02 19:42:44 INFO  Main:38 - saved data reading
+2020-04-02 19:42:44 INFO  Main:43 - application start
+2020-04-02 19:44:58 INFO  Main:38 - saved data reading
+2020-04-02 19:44:58 INFO  Main:43 - application start
+2020-04-02 19:58:08 INFO  Main:38 - saved data reading
+2020-04-02 19:58:08 INFO  Main:43 - application start
+2020-04-02 19:58:08 INFO  Controller:75 - Main controller initializing
+2020-04-02 19:58:14 INFO  NewEditController:91 - new/edit window initializing
+2020-04-02 20:02:33 INFO  NewEditController:91 - new/edit window initializing
+2020-04-02 20:02:43 INFO  TaskInfoController:26 - task info window initializing
+2020-04-02 20:02:43 ERROR Controller:128 - error loading task-info.fxml
+2020-04-02 20:02:44 INFO  TaskInfoController:26 - task info window initializing
+2020-04-02 20:02:44 ERROR Controller:128 - error loading task-info.fxml
+2020-04-02 20:02:45 INFO  TaskInfoController:26 - task info window initializing
+2020-04-02 20:02:45 ERROR Controller:128 - error loading task-info.fxml
+2020-04-02 20:02:45 INFO  TaskInfoController:26 - task info window initializing
+2020-04-02 20:02:45 ERROR Controller:128 - error loading task-info.fxml
+2020-04-02 20:02:45 INFO  TaskInfoController:26 - task info window initializing
+2020-04-02 20:02:45 ERROR Controller:128 - error loading task-info.fxml
+2020-04-02 20:02:45 INFO  TaskInfoController:26 - task info window initializing
+2020-04-02 20:02:45 ERROR Controller:128 - error loading task-info.fxml
+2020-04-02 20:02:46 INFO  TaskInfoController:26 - task info window initializing
+2020-04-02 20:02:46 ERROR Controller:128 - error loading task-info.fxml
+2020-04-02 20:02:46 INFO  TaskInfoController:26 - task info window initializing
+2020-04-02 20:02:46 ERROR Controller:128 - error loading task-info.fxml
+2020-04-02 20:02:46 INFO  TaskInfoController:26 - task info window initializing
+2020-04-02 20:02:46 ERROR Controller:128 - error loading task-info.fxml
+2020-04-02 20:02:46 INFO  TaskInfoController:26 - task info window initializing
+2020-04-02 20:02:46 ERROR Controller:128 - error loading task-info.fxml
+2020-04-02 20:02:46 INFO  TaskInfoController:26 - task info window initializing
+2020-04-02 20:02:46 ERROR Controller:128 - error loading task-info.fxml
+2020-05-14 15:00:23 INFO  Main:38 - saved data reading
+2020-05-14 15:00:23 INFO  Main:43 - application start
+2020-05-14 15:00:43 INFO  Main:38 - saved data reading
+2020-05-14 15:00:43 INFO  Main:43 - application start
+2020-05-14 15:00:43 INFO  Controller:75 - Main controller initializing
+2020-05-14 15:00:48 INFO  NewEditController:91 - new/edit window initializing
+2020-05-14 15:17:36 INFO  Main:38 - saved data reading
+2020-05-14 15:17:36 INFO  Main:43 - application start
+2020-05-14 15:17:36 INFO  Controller:75 - Main controller initializing
+2020-05-14 15:17:39 INFO  NewEditController:91 - new/edit window initializing
+2020-05-14 15:17:49 INFO  NewEditController:91 - new/edit window initializing
+2020-05-14 15:17:54 INFO  NewEditController:91 - new/edit window initializing
+2020-05-14 15:18:06 INFO  TaskInfoController:26 - task info window initializing
+2020-05-14 15:18:06 ERROR Controller:128 - error loading task-info.fxml
+2020-05-14 15:18:08 INFO  TaskInfoController:26 - task info window initializing
+2020-05-14 15:18:08 ERROR Controller:128 - error loading task-info.fxml
+2020-05-14 15:18:25 INFO  Main:38 - saved data reading
+2020-05-14 15:18:25 INFO  Main:43 - application start
+2020-05-14 15:18:25 INFO  Controller:75 - Main controller initializing
+2020-05-14 15:19:01 INFO  Main:38 - saved data reading
+2020-05-14 15:19:01 ERROR TaskIO:93 - IO exception reading or writing file
+2020-05-14 15:19:01 INFO  Main:43 - application start
+2020-05-14 15:19:01 INFO  Controller:75 - Main controller initializing
+2020-05-14 15:19:05 INFO  NewEditController:91 - new/edit window initializing
+2020-05-14 15:19:27 INFO  Main:38 - saved data reading
+2020-05-14 15:19:27 INFO  Main:43 - application start
+2020-05-14 15:19:27 INFO  Controller:75 - Main controller initializing
+2020-05-14 15:28:58 INFO  Main:38 - saved data reading
+2020-05-14 15:28:58 INFO  Main:43 - application start
+2020-05-14 15:28:58 INFO  Controller:75 - Main controller initializing
+2020-05-14 15:29:00 INFO  NewEditController:91 - new/edit window initializing
+2020-05-14 15:29:45 INFO  Main:38 - saved data reading
+2020-05-14 15:29:45 INFO  Main:43 - application start
+2020-05-14 15:29:45 INFO  Controller:75 - Main controller initializing
+2020-05-14 15:36:16 INFO  Main:38 - saved data reading
+2020-05-14 15:36:44 INFO  Main:38 - saved data reading
+2020-05-14 15:36:44 INFO  Main:43 - application start
+2020-05-14 15:36:44 INFO  Controller:75 - Main controller initializing
+2020-05-14 15:36:55 INFO  Main:38 - saved data reading
+2020-05-14 15:36:55 ERROR TaskIO:93 - IO exception reading or writing file
+2020-05-14 15:36:55 INFO  Main:43 - application start
+2020-05-14 15:37:09 INFO  Main:38 - saved data reading
+2020-05-14 15:46:26 INFO  Main:38 - saved data reading
+2020-05-14 15:46:26 ERROR TaskIO:93 - IO exception reading or writing file
+2020-05-14 15:46:26 INFO  Main:43 - application start
+2020-05-14 15:46:26 INFO  Controller:75 - Main controller initializing
+2020-05-14 17:21:13 INFO  Main:38 - saved data reading
+2020-05-14 17:21:13 ERROR TaskIO:93 - IO exception reading or writing file
+2020-05-14 17:21:13 INFO  Main:43 - application start

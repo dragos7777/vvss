@@ -1,0 +1,6 @@
+Test a full scenario:
+login
+select product
+checkout
+logout
+Test log in
